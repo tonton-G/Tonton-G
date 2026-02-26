@@ -22,7 +22,7 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 
 ### **Web**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,nodejs,express" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,nodejs,react" height="40" />
 </p>
 
 ### **Databases**
