@@ -4,15 +4,6 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 
 ---
 
-## What I Do
-- **Mobile Development** using Flutter  
-- **Web Development** (Frontend & Backend)  
-- **Machine Learning Integration** with TensorFlow  
-- Building systems with clean architecture and smooth user experience  
-- Constantly learning, improving, and exploring better ways to solve problems
-
----
-
 ## Tech Stack I Use
 
 ### **Mobile**
