@@ -1,4 +1,4 @@
-# yo, My name is Anthony
+# yo! My name is Anthony
 I'm a software developer who enjoys building intuitive, scalable, and meaningful digital experiences.  
 I specialize in **mobile development**, **modern web technologies**, and **machine learning integration** — crafting projects that blend usability and innovation.
 
