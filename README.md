@@ -8,7 +8,7 @@ I specialize in **mobile development**, **modern web technologies**, and **machi
 
 ### **Mobile**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart" height="40" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,swift" height="40" />
 </p>
 
 ### **Web**
