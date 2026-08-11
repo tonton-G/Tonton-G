@@ -30,23 +30,13 @@
 
 ---
 
-## Roles
-- **Lead Frontend Developer – LinguaAR**  
-  Developed the mobile app experience, implemented AR elements, integrated machine learning outputs, and built the full quiz system using clean state management.
-
-- **Vice President – System Developers Alliance (SDA)**         
-   Helped lead the organization, organized developer-focused events, supported technical initiatives, and guided student developers across various activities.
-
----
-
 ## What I'm Currently Improving
-- Deepening mobile development skills 
-- Learning Xcode and improving iOS development fundamentals 
-- Enhancing ML workflows and deploying models effectively  
-- Strengthening performance optimization and testing practices  
 - Learning cloud fundamentals and AWS services  
+- Deepening mobile development skills 
+- Learning Xcode and improving iOS development fundamentals   
+- Strengthening performance optimization and testing practices  
 - Exploring modern AI technologies and practical use cases  
-- Preparing for industry-level mobile engineering roles  
+
 
 ---
 
