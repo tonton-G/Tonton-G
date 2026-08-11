@@ -13,9 +13,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,nodejs,react" height="40" />
 </p>
 
+### **Cloud & DevOps**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,githubactions" height="40" />
+</p>
+
 ### **Databases**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb" height="40" />
 </p>
 
 ### **Machine Learning / AI**
