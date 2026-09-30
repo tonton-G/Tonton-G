@@ -22,19 +22,24 @@
 
 ## Tech Stack
 
-**Shipped in production**
+**Web & Backend**
 
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,laravel,php,mysql" alt="React, TypeScript, Tailwind, Laravel, PHP, MySQL"/>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,laravel,php,mysql" alt="React, TypeScript, Tailwind, Node.js, Laravel, PHP, MySQL"/>
 
-**Built projects with**
+**Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=aws,terraform,githubactions,flutter,dart,nodejs,python,firebase" alt="AWS, Terraform, GitHub Actions, Flutter, Dart, Node.js, Python, Firebase"/>
+<img src="https://skillicons.dev/icons?i=aws,terraform,githubactions" alt="AWS, Terraform, GitHub Actions"/>
 
 <img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" alt="Packer"/>
 
-**Exploring**
+**Mobile**
 
-<img src="https://skillicons.dev/icons?i=swift" alt="Swift"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,swift,firebase" alt="Flutter, Dart, Swift, Firebase"/>
+
+**ML**
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" alt="Python, TensorFlow, OpenCV"/>
+
 
 <br/>
 
