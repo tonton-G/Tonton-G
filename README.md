@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://anthonygalabay.com">Portfolio</a> &nbsp;·&nbsp;
-  <a href="linkedin.com/in/anthony-galabay/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/anthony-galabay/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="anthonygalabayy@gmail.com">Email</a>
 </p>
 
