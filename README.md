@@ -1,13 +1,8 @@
-<h1 align="center">yo! My name is Anthony</h1>
+<h1 align="center">hi! My name is Anthony</h1>
 
 <p align="center">
   Software engineer building with <b>React</b>, <b>Laravel</b>, <b>Flutter</b>, and <b>AWS</b>.<br/>
   Based in the Philippines.
-</p>
-
-<p align="center">
-  <a href="https://www.credly.com/badges/9331b523-4996-408f-914e-4ef03bd22d00/public_url"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate"/></a>
-  <a href="www.credly.com/badges/3404d04e-8ec2-414e-922f-568f25b8cfed/public_url"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/></a>
 </p>
 
 <p align="center">
