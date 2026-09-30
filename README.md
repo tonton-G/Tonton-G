@@ -1,52 +1,46 @@
-# yo! My name is Anthony
----
+<h1 align="center">yo! My name is Anthony</h1>
 
-## Tech Stack I Use
-
-### **Mobile**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,swift" height="40" />
+<p align="center">
+  Software engineer building with <b>React</b>, <b>Laravel</b>, <b>Flutter</b>, and <b>AWS</b>.<br/>
+  Based in the Philippines.
 </p>
 
-### **Web**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,ts,nodejs,react" height="40" />
+<p align="center">
+  <a href="https://www.credly.com/badges/9331b523-4996-408f-914e-4ef03bd22d00/public_url"><img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Solutions Architect Associate"/></a>
+  <a href="www.credly.com/badges/3404d04e-8ec2-414e-922f-568f25b8cfed/public_url"><img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner"/></a>
 </p>
 
-### **Cloud & DevOps**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,githubactions" height="40" />
+<p align="center">
+  <a href="https://anthonygalabay.com">Portfolio</a> &nbsp;·&nbsp;
+  <a href="linkedin.com/in/anthony-galabay/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="anthonygalabayy@gmail.com">Email</a>
 </p>
 
-### **Databases**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,dynamodb" height="40" />
-</p>
 
-### **Machine Learning / AI**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" height="40" />
-</p>
-
-### **Tools & Others**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=github,vscode,androidstudio,firebase,postman" height="40" />
-</p>
-
----
-
-## What I'm Currently Improving
-- Learning cloud fundamentals and AWS services  
-- Deepening mobile development skills 
-- Learning Xcode and improving iOS development fundamentals   
-- Strengthening performance optimization and testing practices  
-- Exploring modern AI technologies and practical use cases  
+<br/>
 
 
----
+## Tech Stack
 
-## Connect With Me
-If you'd like to collaborate or chat about tech, feel free to reach out.
+**Shipped in production**
 
----
-![Profile Views](https://komarev.com/ghpvc/?username=Tonton21-afk&style=for-the-badge)
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,laravel,php,mysql" alt="React, TypeScript, Tailwind, Laravel, PHP, MySQL"/>
+
+**Built projects with**
+
+<img src="https://skillicons.dev/icons?i=aws,terraform,githubactions,flutter,dart,nodejs,python,firebase" alt="AWS, Terraform, GitHub Actions, Flutter, Dart, Node.js, Python, Firebase"/>
+
+<img src="https://img.shields.io/badge/Packer-02A8EF?style=for-the-badge&logo=packer&logoColor=white" alt="Packer"/>
+
+**Exploring**
+
+<img src="https://skillicons.dev/icons?i=swift" alt="Swift"/>
+
+<br/>
+
+## Currently Deepening
+
+- **AWS architecture:** turning project designs into documented, production-style builds
+- **Infrastructure as code:** Terraform modules and Packer image builds
+- **CI/CD:** automated build, test, and deploy pipelines with GitHub Actions
+- **Mobile:** Flutter performance and testing, plus Xcode and iOS fundamentals
